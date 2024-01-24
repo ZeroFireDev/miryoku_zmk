@@ -3,7 +3,19 @@
 
 #pragma once
 
-#define ZMK_MOUSE_DEFAULT_MOVE_VAL 1250
+#define U_BTN1 &kp SPACE
+#define U_BTN2 &kp TAB
+#define U_BTN3 &kp ESCAPE
+#define U_MS_D &kp W
+#define U_MS_L &kp Q
+#define U_MS_R &kp R
+#define U_MS_U &kp E
+#define U_WH_D &kp S
+#define U_WH_L &kp A
+#define U_WH_R &kp F
+#define U_WH_U &kp D
+
+/*#define ZMK_MOUSE_DEFAULT_MOVE_VAL 1250
 #define ZMK_MOUSE_DEFAULT_SCRL_VAL 100
 
 #define U_MOUSE_MOVE_EXPONENT 1
@@ -24,3 +36,4 @@
 #define U_WH_L &msc SCRL_LEFT
 #define U_WH_R &msc SCRL_RIGHT
 #define U_WH_U &msc SCRL_UP
+*/
