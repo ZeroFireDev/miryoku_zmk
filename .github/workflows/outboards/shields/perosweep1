@@ -1,0 +1,7 @@
+# Copyright 2021 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=flunderpero/ferris-zmk
+outboard_ref=main
+outboard_from=config/boards/shields/perosweep1
+outboard_to=boards/shields/perosweep1
