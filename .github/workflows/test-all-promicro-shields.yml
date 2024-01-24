@@ -63,6 +63,7 @@ jobs:
         "otg_left","otg_right",
         "pinkiesout",
         "pockettype",
+        "perosweep1_left","perosweep1_right",
         "pteron36_left","pteron36_right",
         "rae_dux_left","rae_dux_right",
         "rebound_v4",
